@@ -1,4 +1,4 @@
-# Machine-Learning-with-Wine-Quality
+# Wine-Quality-Data-Analysis
  Analyzing the "Red Wine Quality" dataset using clustering and classification techniques.
  
  
